@@ -35,7 +35,7 @@ learning methods.
 ---
 
 # Project Structure
-.
+
 ├── code/
 │   └── DL_raw.py
 ├── data/
