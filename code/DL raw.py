@@ -34,7 +34,7 @@ import os
 #os.chdir("C:\\Users\\mtpla\\Downloads")
 
 
-data = pd.read_csv("train_contrats.csv")
+data = pd.read_csv("data/train_contrats.csv")
 
 # -----------------------
 # Basic summaries
