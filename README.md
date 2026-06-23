@@ -150,7 +150,7 @@ Main drivers identified:
 
 See:
 
-figures/PDP_&_ICE_plots.png
+- [PDP_&_ICE_plots.png](figures/PDP_&_ICE_plots.png)
 
 
 ---
@@ -165,7 +165,7 @@ Contract duration is the strongest factor separating low-risk and high-risk poli
 
 See:
 
-figures/SHAP_Waterfall_plots.png
+- [SHAP_Waterfall_plots.png](figures/SHAP_Waterfall_plots.png)
 
 ---
 
@@ -202,9 +202,7 @@ Clusters revealed heterogeneous groups based on:
 
 Visualization:
 
-
-figures/Number_of_clusters_identification.png
-
+- [Number_of_clusters_identification.png](figures/Number_of_clusters_identification.png)
 
 
 ---
