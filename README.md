@@ -244,13 +244,13 @@ python code/"DL raw.py"
 ```
 Make sure the dataset is available:
 
-data/train_contrats.csv
+- [train_contrats.csv](data/train_contrats.csv)
 
 ## Report
 
 A complete explanation of the methodology, experiments, and results is available here:
 
-report/DL_project.pdf
+- [DL_project.pdf](report/DL_project.pdf)
 
 ## Author
 
