@@ -14,6 +14,7 @@ The objective is to model claim frequency while accounting for exposure (`Exposi
 
 The project investigates the trade-off between predictive performance, interpretability, and portfolio segmentation.
 
+
 ---
 ## Results Preview
 
@@ -53,6 +54,15 @@ learning methods.
 ```
 ---
 # Dataset
+
+The dataset used in this project is the French motor insurance dataset from the Freakonometrics repository:
+
+https://freakonometrics.hypotheses.org/48893
+
+Please download the dataset and place it at:
+
+**data/train_contrats.csv**
+
 
 The dataset contains motor insurance contracts with information about:
 
@@ -228,14 +238,14 @@ Main conclusions:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Mateus-Auza/motor-insurance-claim-frequency-modeling
+git clone https://github.com/Mateus-Auza/motor-insurance-claim-frequency-modeling.git
 cd motor-insurance-claim-frequency-modeling
 ```
 ## Running the project
 
 Execute:
 ```bash
-python code/"main.py"
+python code/main.py
 ```
 Make sure the dataset is available:
 
