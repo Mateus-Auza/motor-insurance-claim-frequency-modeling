@@ -217,8 +217,6 @@ figures/Number_of_clusters_identification.png
 |------|-------------|
 | Neural Network | Best predictive performance |
 | GLM | Strong benchmark + high interpretability |
-| Clustering | Useful for segmentation |
-| Baseline frequency model | Lowest performance |
 
 Main conclusions:
 
